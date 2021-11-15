@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/formulaire-homeweb/static/css/main.5dd066d6.chunk.css",
+    "main.js": "/formulaire-homeweb/static/js/main.f117e066.chunk.js",
+    "main.js.map": "/formulaire-homeweb/static/js/main.f117e066.chunk.js.map",
+    "runtime-main.js": "/formulaire-homeweb/static/js/runtime-main.eefc276e.js",
+    "runtime-main.js.map": "/formulaire-homeweb/static/js/runtime-main.eefc276e.js.map",
+    "static/js/2.a180ec56.chunk.js": "/formulaire-homeweb/static/js/2.a180ec56.chunk.js",
+    "static/js/2.a180ec56.chunk.js.map": "/formulaire-homeweb/static/js/2.a180ec56.chunk.js.map",
+    "index.html": "/formulaire-homeweb/index.html",
+    "static/css/main.5dd066d6.chunk.css.map": "/formulaire-homeweb/static/css/main.5dd066d6.chunk.css.map",
+    "static/js/2.a180ec56.chunk.js.LICENSE.txt": "/formulaire-homeweb/static/js/2.a180ec56.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/formulaire-homeweb/static/media/accueil.8a4b8b9b.webp",
+    "static/media/logo-avatar.20732ab9.png": "/formulaire-homeweb/static/media/logo-avatar.20732ab9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eefc276e.js",
+    "static/js/2.a180ec56.chunk.js",
+    "static/css/main.5dd066d6.chunk.css",
+    "static/js/main.f117e066.chunk.js"
+  ]
+}
